@@ -1,0 +1,21 @@
+Inheritance:
+1.Inheritance mechanism in JAVA helps a child class to inherit the attributes and methods of parent class.
+2. By using keyword extends we can tell classB that classA is father
+3.Advantages:
+-Effective memory usage
+-Reusability of code
+Types of Inheritance supported by JAVA:
+1.Single Inheritance:
+            class A---- -->class B
+2.Multilevel Inheritance:
+           class A-->class B--->class C
+3.Hierarchical Inheritance
+              class A
+                / \
+    class B   class C
+4. Hybrid Inheritance: Combination of two inheritance is called hybrid.
+          class A
+               / \   
+    classB   class C  
+        |    
+    class D   
